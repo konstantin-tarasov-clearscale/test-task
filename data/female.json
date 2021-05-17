@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2",
+    "name": "Alice Wong",
+    "email": "alice.w@mail.com",
+    "avatar": "https://nofiredrills.com/wp-content/uploads/2016/10/myavatar.png",
+    "phones": [
+      {
+        "type": "home",
+        "number": "+71112223344"
+      },
+      {
+        "type": "office",
+        "number": "+71112223344",
+        "ext": "123"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Diana Miller",
+    "email": "diana.wm@mail.com",
+    "avatar": null,
+    "phones": [
+      {
+        "type": "home",
+        "number": "+71112223344"
+      }
+    ]
+  },
+  {}
+]
