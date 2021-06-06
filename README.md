@@ -1,12 +1,10 @@
 # Test task objective
 Implement simple application to display persons data.
 
-## Fetch data from API
-- Male: https://raw.githubusercontent.com/konstantin-tarasov-clearscale/test-task/master/data/male.json
-- Female: https://raw.githubusercontent.com/konstantin-tarasov-clearscale/test-task/master/data/female.json
-- Retrieve data from the API and store the data within the application using any state manager.
+![Example](/docs/example.gif)
 
-## Display raw json data in a browser
+## Fetch data from API
+- Retrieve data from the API and store the data within the application using any state manager.
 
 ## Add types to the API model and application model
 - Add strict types for the API person model.
