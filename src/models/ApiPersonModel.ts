@@ -1,6 +1,6 @@
 import { ApiPhoneModel } from "./ApiPhoneModel";
 
-export interface ApiPersonModel {
+export type ApiPersonModel = {
   id: string;
   age: number
   name: string;
