@@ -6,5 +6,5 @@ export type ApiPersonModel = {
   name: string;
   email: string;
   avatar: string | null;
-  phone: Array<ApiPhoneModel>;
+  phone: [];
 }
